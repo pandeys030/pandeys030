@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soniya</h1>
 <h3 align="center">
-Frontend Developer 💻 | Aspiring Data Analyst from Nepal 📊
+Frontend Developer 💻 | Aspiring Data Analyst 📊
 </h3>
 
 
