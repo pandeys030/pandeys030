@@ -8,7 +8,6 @@
   <a href="mailto:soniyapandey2058@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=soniyapandey&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
@@ -186,43 +185,6 @@ A Netflix-inspired streaming platform focused on responsive design, movie discov
 ---
 
 
-## 🎯 `WHAT I'M BUILDING TOWARDS`
-
-```text
-Web Development
-      +
-Data Analytics
-      +
-Artificial Intelligence
-      +
-Machine Learning
-      +
-Real-World Products
-
-             ↓
-
-       🚀 BUILDING
-       INTELLIGENT
-        PRODUCTS
-```
-# 📈 `SKILL_TREE`
-
-```text
-                    SONIYA
-                      │
-          ┌───────────┼───────────┐
-          ▼           ▼           ▼
-       FRONTEND     PYTHON       DATA
-          │           │           │
-      ┌───┼───┐    ┌──┼──┐    ┌──┼────┐
-      ▼   ▼   ▼    ▼  ▼  ▼    ▼  ▼    ▼
-     HTML CSS React SQL Git ML Pandas NumPy
-                              │
-                              ▼
-                       Data Visualization
-```
-
----
 
 # 🎯 `CURRENT_MISSION`
 
